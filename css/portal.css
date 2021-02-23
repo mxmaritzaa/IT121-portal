@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand');
 
 html {
-    background-color: lightgray;
+    background-color: #D49E8D;
     font-family: 'Quicksand', sans-serif;
     font-size: 0.95em;
     line-height: 1.5em;
@@ -22,8 +22,9 @@ h1 {
 }
 
 main.wrapper {
-    background-color: white;
+    background-color: #FAF6F2;
     overflow: auto;
+    font-family: 'Rajdhani', sans-serif;
 }
 
 p {
@@ -37,13 +38,13 @@ h2,h3 {
 }
 
 a {
-    color:darkcyan;
+    color:#683B2B;
     text-decoration: none;
 }
 
 a:hover {
-    color: whitesmoke;
-    background-color: darkcyan;
+    color: whitesmoke; 
+    background-color: #683B2B;
     text-decoration: none;
 }
 
